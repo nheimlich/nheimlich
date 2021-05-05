@@ -1,5 +1,1 @@
-### Hi there 👋
-
-#### Stats
-
 [![nheimlich's GitHub stats](https://github-readme-stats.vercel.app/api?username=nheimlich)](https://github.com/nheimlich/github-readme-stats)
